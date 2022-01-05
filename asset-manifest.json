@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.90839957.chunk.css",
-    "main.js": "/static/js/main.7058219b.chunk.js",
-    "main.js.map": "/static/js/main.7058219b.chunk.js.map",
+    "main.css": "/static/css/main.b19de6bb.chunk.css",
+    "main.js": "/static/js/main.c3df5590.chunk.js",
+    "main.js.map": "/static/js/main.c3df5590.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.096fc5c7.js",
     "runtime-main.js.map": "/static/js/runtime-main.096fc5c7.js.map",
     "static/js/2.f58f8a08.chunk.js": "/static/js/2.f58f8a08.chunk.js",
     "static/js/2.f58f8a08.chunk.js.map": "/static/js/2.f58f8a08.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.90839957.chunk.css.map": "/static/css/main.90839957.chunk.css.map",
+    "static/css/main.b19de6bb.chunk.css.map": "/static/css/main.b19de6bb.chunk.css.map",
     "static/js/2.f58f8a08.chunk.js.LICENSE.txt": "/static/js/2.f58f8a08.chunk.js.LICENSE.txt",
     "static/media/tabs2.scss": "/static/media/server.99e1fcd2.jpg",
     "static/media/wnapp.scss": "/static/media/spotify.e0e1dc5c.ttf"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.096fc5c7.js",
     "static/js/2.f58f8a08.chunk.js",
-    "static/css/main.90839957.chunk.css",
-    "static/js/main.7058219b.chunk.js"
+    "static/css/main.b19de6bb.chunk.css",
+    "static/js/main.c3df5590.chunk.js"
   ]
 }
