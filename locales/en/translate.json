@@ -1,6 +1,6 @@
 {
-  "about.opensource": "win11React is an open source project made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS, and JavaScript.",
-  "about.notmicrosoft": "This project is not in anyway affiliated with Microsoft and should not be confused with Microsoft's Operating System or Products.",
+  "about.opensource": "Win11React is an open source project made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS, and JavaScript.",
+  "about.notmicrosoft": "This project is not in any way affiliated with Microsoft and should not be confused with Microsoft's Operating System or Products.",
   "about.Creative-Commons": "Creative-Commons",
   "about.title": "About",
   "about.licensed": "This project is licensed under",
@@ -11,13 +11,13 @@
   "store.featured-app": "Featured Apps",
   "store.featured-app.info": "Take your experience to new heights with these must-have apps",
   "store.featured-game": "Featured Games",
-  "store.featured-game.info": "Explore fun to play xbox games and find a new favorite",
+  "store.featured-game.info": "Explore Fun to Play Xbox Games and Find a New Favourite",
   "store.featured-film": "Featured Films",
-  "store.featured-film.info": "Rent or buy the latest hit films and watch them at home or on the go",
+  "store.featured-film.info": "Rent or Buy the Latest Hit Films and Watch Them at Home, or on the go",
   "store.free": "FREE",
   "store.owned": "Owned",
-  "store.rent": "Rent",
+  "store.rent": "Featured Apps",
   "store.features": "Features",
-  "store.ratings": "Ratings and reviews",
+  "store.ratings": "Ratings and Reviews",
   "store.description": "Description"
 }
