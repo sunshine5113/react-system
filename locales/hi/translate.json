@@ -19,5 +19,6 @@
   "store.rent": "किराया",
   "store.features": "विशेषताएं",
   "store.ratings": "रेटिंग और समीक्षा",
-  "store.description": "विवरण"
+  "store.description": "विवरण",
+  "camera.take-photo": "Take photo"
 }

@@ -19,5 +19,6 @@
   "store.rent": "Аренда",
   "store.features": "Возможности",
   "store.ratings": "Рейтинги та огляди",
-  "store.description": "Описание"
+  "store.description": "Описание",
+  "camera.take-photo": "Take photo"
 }

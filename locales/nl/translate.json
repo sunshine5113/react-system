@@ -19,5 +19,6 @@
   "store.rent": "Huur",
   "store.features": "Cool",
   "store.ratings": "Beoordelingen en recensies",
-  "store.description": "Beschrijving"
+  "store.description": "Beschrijving",
+  "camera.take-photo": "Take photo"
 }

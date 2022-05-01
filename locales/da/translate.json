@@ -19,5 +19,6 @@
   "store.rent": "Leje",
   "store.features": "Funktioner",
   "store.ratings": "Vurderinger og anmeldelser",
-  "store.description": "Varebeskrivelse"
+  "store.description": "Varebeskrivelse",
+  "camera.take-photo": "Take photo"
 }

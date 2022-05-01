@@ -19,5 +19,6 @@
   "store.rent": "Kölcsönzés",
   "store.features": "Tulajdonságok",
   "store.ratings": "Értékelések és vélemények",
-  "store.description": "Leírás"
+  "store.description": "Leírás",
+  "camera.take-photo": "Take photo"
 }

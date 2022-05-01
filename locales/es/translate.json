@@ -19,5 +19,6 @@
   "store.rent": "Alquiler",
   "store.features": "Características",
   "store.ratings": "Puntuaciones y reseñas",
-  "store.description": "Descripción"
+  "store.description": "Descripción",
+  "camera.take-photo": "Take photo"
 }

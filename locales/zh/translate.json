@@ -19,5 +19,6 @@
   "store.rent": "租金",
   "store.features": "功能",
   "store.ratings": "评级和评论",
-  "store.description": "描述"
+  "store.description": "描述",
+  "camera.take-photo": "Take photo"
 }

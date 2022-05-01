@@ -19,5 +19,6 @@
   "store.rent": "レンタル",
   "store.features": "機能",
   "store.ratings": "評価とレビュー",
-  "store.description": "説明"
+  "store.description": "説明",
+  "camera.take-photo": "Take photo"
 }
