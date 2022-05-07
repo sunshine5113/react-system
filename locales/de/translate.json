@@ -4,7 +4,7 @@
   "about.Creative-Commons": "Creative-Commons",
   "about.title": "Über",
   "about.licensed": "Dieses Projekt ist lizenziert unter",
-  "about.alsonot": "Das ist auch nicht der Fall.",
+  "about.alsonot": "Dies ist auch nicht",
   "about.microsoftcopywrite": "Microsoft, Windows und andere vorgestellte Produkte in diesem Projekt sind Marken der Microsoft-Unternehmensgruppe",
   "about.understand": "Ok, Ich verstanden",
   "about.contact": "kontakt",
@@ -15,10 +15,10 @@
   "store.featured-film": "Empfohlene Filme",
   "store.featured-film.info": "Miete oder kaufe die neuesten Filme und schaue sie zu Hause oder unterwegs an",
   "store.free": "KOSTENLOS",
-  "store.owned": "Besitzt",
+  "store.owned": "Im Besitz",
   "store.rent": "Miete",
   "store.features": "Eigenschaften",
-  "store.ratings": "Bewertungen und Bewertungen",
+  "store.ratings": "Bewertungen und Rezensionen",
   "store.description": "Beschreibung",
-  "camera.take-photo": "Take photo"
+  "camera.take-photo": "Foto aufnehmen"
 }
