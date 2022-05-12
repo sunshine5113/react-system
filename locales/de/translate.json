@@ -1,5 +1,5 @@
 {
-  "about.opensource": "win11React ist ein Open Source Projekt in der Hoffnung, die Windows 11 Desktop-Erfahrung im Web zu replizieren, Verwendung von Standard-Web-Technologien wie React, CSS und JavaScript.",
+  "about.opensource": "win11React ist ein Quelloffenes Project gemacht in der Hoffnung, das Windows 11 Desktop-Erlebnis im Web zu replizieren, durch die verwendung von Standard Web-technologien wie React, CSS und JavaScript.",
   "about.notmicrosoft": "Dieses Projekt ist ohnehin nicht mit Microsoft verbunden und sollte nicht mit dem Betriebssystem oder den Produkten von Microsoft verwechselt werden.",
   "about.Creative-Commons": "Creative-Commons",
   "about.title": "Über",
@@ -8,9 +8,9 @@
   "about.microsoftcopywrite": "Microsoft, Windows und andere vorgestellte Produkte in diesem Projekt sind Marken der Microsoft-Unternehmensgruppe",
   "about.understand": "Ok, Ich verstanden",
   "about.contact": "kontakt",
-  "store.featured-app": "Vorgestellte Apps",
+  "store.featured-app": "Empfohlene Apps",
   "store.featured-app.info": "Cool",
-  "store.featured-game": "Vorgestellte Spiele",
+  "store.featured-game": "Empfohlene Spiele",
   "store.featured-game.info": "Entdecke Spaß beim Spielen von xbox Spielen und finde einen neuen Favoriten",
   "store.featured-film": "Empfohlene Filme",
   "store.featured-film.info": "Miete oder kaufe die neuesten Filme und schaue sie zu Hause oder unterwegs an",
