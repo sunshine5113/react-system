@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.57a6b8f3.css",
-    "main.js": "/static/js/main.ac4067f4.js",
-    "static/media/spotify.ttf": "/static/media/spotify.e0e1dc5c97e13d79c9fd.ttf",
-    "static/media/SettingsIcons.woff2": "/static/media/SettingsIcons.05b3fe8c6c4599103d72.woff2",
-    "service-worker.js": "/service-worker.js",
-    "static/media/spotify.woff2": "/static/media/spotify.add3c9225e28bf644f29.woff2",
-    "static/media/server.jpg": "/static/media/server.99e1fcd21a4a9a3b736f.jpg",
-    "index.html": "/index.html",
-    "main.57a6b8f3.css.map": "/static/css/main.57a6b8f3.css.map",
-    "main.ac4067f4.js.map": "/static/js/main.ac4067f4.js.map"
+    "main.css": "./static/css/main.c3ecacf7.css",
+    "main.js": "./static/js/main.96a6aed8.js",
+    "static/media/spotify.ttf": "./static/media/spotify.e0e1dc5c97e13d79c9fd.ttf",
+    "static/media/SettingsIcons.woff2": "./static/media/SettingsIcons.05b3fe8c6c4599103d72.woff2",
+    "service-worker.js": "./service-worker.js",
+    "static/media/spotify.woff2": "./static/media/spotify.add3c9225e28bf644f29.woff2",
+    "static/media/server.jpg": "./static/media/server.99e1fcd21a4a9a3b736f.jpg",
+    "index.html": "./index.html",
+    "main.c3ecacf7.css.map": "./static/css/main.c3ecacf7.css.map",
+    "main.96a6aed8.js.map": "./static/js/main.96a6aed8.js.map"
   },
   "entrypoints": [
-    "static/css/main.57a6b8f3.css",
-    "static/js/main.ac4067f4.js"
+    "static/css/main.c3ecacf7.css",
+    "static/js/main.96a6aed8.js"
   ]
 }
