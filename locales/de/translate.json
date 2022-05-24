@@ -20,5 +20,8 @@
   "store.features": "Eigenschaften",
   "store.ratings": "Bewertungen und Rezensionen",
   "store.description": "Beschreibung",
-  "camera.take-photo": "Foto aufnehmen"
+  "camera.take-photo": "Foto aufnehmen",
+  "oobe.country": "Is this the right country or region?",
+  "oobe.keyboard": "Is this the right keyboard layout or input method?",
+  "oobe.anotherkeyboard": "If you also use another keyboard layout, you can add that next"
 }

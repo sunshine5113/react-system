@@ -20,5 +20,8 @@
   "store.features": "機能",
   "store.ratings": "評価とレビュー",
   "store.description": "説明",
-  "camera.take-photo": "Take photo"
+  "camera.take-photo": "Take photo",
+  "oobe.country": "Is this the right country or region?",
+  "oobe.keyboard": "Is this the right keyboard layout or input method?",
+  "oobe.anotherkeyboard": "If you also use another keyboard layout, you can add that next"
 }
