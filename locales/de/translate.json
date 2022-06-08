@@ -6,7 +6,7 @@
   "about.licensed": "Dieses Projekt ist lizenziert unter",
   "about.alsonot": "Dies ist auch nicht",
   "about.microsoftcopywrite": "Microsoft, Windows und andere vorgestellte Produkte in diesem Projekt sind Marken der Microsoft-Unternehmensgruppe",
-  "about.understand": "Ok, Ich verstanden",
+  "about.understand": "Ok, ich verstehe",
   "about.contact": "kontakt",
   "store.featured-app": "Empfohlene Apps",
   "store.featured-app.info": "Cool",
@@ -21,7 +21,7 @@
   "store.ratings": "Bewertungen und Rezensionen",
   "store.description": "Beschreibung",
   "camera.take-photo": "Foto aufnehmen",
-  "oobe.country": "Is this the right country or region?",
-  "oobe.keyboard": "Is this the right keyboard layout or input method?",
-  "oobe.anotherkeyboard": "If you also use another keyboard layout, you can add that next"
+  "oobe.country": "Ist dies das richtige Land oder die richtige Region?",
+  "oobe.keyboard": "Ist dies das richtige Tastaturlayout oder die richtige Eingabemethode?",
+  "oobe.anotherkeyboard": "Wenn Sie auch ein anderes Tastaturlayout verwenden, können Sie dies als nächstes hinzufügen"
 }
